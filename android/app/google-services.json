@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909111279335",
+    "project_id": "mesapronta-81e78",
+    "storage_bucket": "mesapronta-81e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909111279335:android:7f31498aac281cff91ac42",
+        "android_client_info": {
+          "package_name": "com.example.mesa_pronta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfDN2kJhPXgd4FYggKhW2Bc-Di8G9SYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
